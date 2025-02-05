@@ -1,0 +1,5 @@
+#!/bin/bash
+for name in Queen Linda Sheja
+do
+echo "My name is $name"
+done
